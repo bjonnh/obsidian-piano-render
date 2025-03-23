@@ -1,8 +1,8 @@
 {
 	"id": "piano-render",
 	"name": "Piano Render",
-	"version": "1.0.0",
-	"minAppVersion": "1.7.4",
+	"version": "1.0.1",
+	"minAppVersion": "1.8.4",
 	"description": "Renders piano keys from code blocks.",
 	"author": "Jonathan Bisson",
 	"authorUrl": "https://www.bjonnh.net",
